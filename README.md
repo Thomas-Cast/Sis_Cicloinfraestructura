@@ -1,4 +1,3 @@
-# Sis_Cicloinfraestructura
 # Sistema Público de Cicloinfraestructura Intermunicipal (Cundinamarca)
 
 Proyecto final de **Estructuras de Información** basado en la apuesta *Movilidad Contemporánea* del Plan de Desarrollo de Cundinamarca.
